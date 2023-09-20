@@ -21,10 +21,10 @@
 
 ### :man_technologist: About Me :
 - 👋 Hi, I’m @artuom2283
-- 🙄I am from an Energodar (Ukraine)
+- 🙄 I am from an Energodar (Ukraine)
 - 👀 I’m a student at the National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute",
 122 Computer Science
-- 😎I'm a  programmer
+- 😎 I'm a  programmer
 
 ---
 
