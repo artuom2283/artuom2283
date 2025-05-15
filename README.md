@@ -12,34 +12,28 @@
     <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </div>
 
-
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=artuom2283&style=flat-square&color=blue" alt="" />
 </div>
 
 ---
 
-### :man_technologist: About Me :
+### 👨‍💻 About Me :
 - 👋 Hi, I’m @artuom2283
-- 🙄 I am from an Energodar (Ukraine)
-- 👀 I’m a student at the National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute",
-122 Computer Science
-- 😎 I'm a  programmer
+- 🙄 I am from Energodar, Ukraine
+- 👨‍🎓 I’m studying Computer Science at NTUU "Igor Sikorsky Kyiv Polytechnic Institute"
+- 🧠 I'm a passionate Front-End Developer with over 1 year of commercial experience
+- ⚡ I work in Agile teams, delivering high-quality software with thoughtful tech choices and UI/UX improvements
 
 ---
 
-### 💻 Languages:
+### 🧠 Skills
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="ts" alt="ts" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>
-</div>
+- **Languages:** TypeScript, JavaScript  
+- **Libraries & Frameworks:** React, Redux Toolkit, Next.js  
+- **Styling:** CSS, Sass (SCSS), Material UI, Bootstrap, Tailwind  
+- **Testing:** Unit, Jest, Cypress  
+- **Dev Tools:** Webpack, Vite  
+- **Other:** SDLC knowledge, Agile (Scrum, Kanban), JWT, WebSockets
 
 ---
-
-### 🛠 Tools:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-</div>
